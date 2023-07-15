@@ -51,6 +51,7 @@ To use the Finance Calculators, follow these steps:
 6. The program will display a menu of available calculators. Follow the prompts and input the required information to perform the desired calculation.
 
 7. Explore different calculators by selecting different options from the menu.
+![image](https://github.com/Ramz-T/finalcapstone/assets/127998749/3c2854b2-5be8-421f-af2a-0417320dba16)
 
 ## Available Calculators
 
